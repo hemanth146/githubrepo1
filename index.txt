@@ -4,4 +4,4 @@ third
 
 git training
 
-New changes
+New changes to the code
